@@ -49,8 +49,8 @@
     ,
     "MODE_PUBLIC":
     {
-      "description":"oui pour le mode public ou non pour le mode privé(Dans ce vous seul  utiliserez le bot)",
-      "value":"oui",
+      "description":"non pour le mode public ou non pour le mode privé(Dans ce vous seul  utiliserez le bot)",
+      "value":"non",
       "required":false
     }
 	,
@@ -71,7 +71,7 @@
     "SESSION_ID":
     {
       "description":"veuillez renseigner votre id de session",   
-      "value":"",
+      "value":"Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0plNTBoRjgzUHhXRWNkN0NkenYyQUxHelRsdGpXblJvWG1RWDJIK1hsZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYkNMaG5KOFR3WEhMbDhGVkhBYjN2NFVWeWdzblJXOWswYTc2a3Q3dGowMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ5TndUbTQrQXRSMlJhcTU1TW5mWWJZSk1zK0RUbGNUTXFmZnRSMjRVRm1jPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVHFNY3U5Y2YrVk9Yeks0ZUdvSkdDY0tPSmEvdk5OVzlCQXY3eXR5N0RjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjJKNEludEFjcC9UUUNHT3IwWnB6QTNDNi9RSVF5a0tUNkhaR3o1dHNwR3M9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InM4YzBydTNTZ0NqaHJEVzMzUFpVK3NJVUxLMklteU50am9HQ3B1OG9MUkk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMkd5cStLSFNRM3EwUjI5bnA2VlZ0Ry9vU093ejdCUWQ3b0c5V28zMitIQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0FTcGEwSVBDRGtUY0w5TGtETHduRTRPK0lsSTJKVUxTWTlWd0VkSDlqQT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikp6SW1JaUxoTlRETlVVSUYzQVRLRHJjTHd0d0Q2SDRYcVV1YzdkNzBVZzQ5UnhoMHhub2x6T3FUNytpZW1rNGxGdTVITFFuNENuOHNsdW9oTEVZN2hBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTEwLCJhZHZTZWNyZXRLZXkiOiI4bGY3ZElzSGlFUmt6VzBDSmdCanY3QlR2bmdUaityYzVMSXI1TjY0VUlvPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sInJlZ2lzdGVyZWQiOnRydWUsInBhaXJpbmdDb2RlIjoiRFZRUjhXVDQiLCJtZSI6eyJpZCI6IjIzNzYyMDc0NjY5NzozNkBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDUDN6b1lBRUVNaXVoN3NHR0FVZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiczE4U1A5WTZRTnBkVXZHZ1lXVk1CUy9oMEkvZGY2NmQ1YVowSFAvUUt5bz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiTUhSOVltZW1qOUhXKzZDQytwVEhvNjYzUkNiSkdrcHJzNjlWSGFYZE9ydmprSmNWUlpNamhxQzA4N1R4UjA2M2haMTNQaXdZbGtXZTZvdWI0a2JGQ1E9PSIsImRldmljZVNpZ25hdHVyZSI6Im1UK3d1aVM4STVJUlhiQVpnQ1pOWmE5bU1wS240Zm1vSU5xSTJpWnd6MXU3aEplSXRRUHBrdGIwaHZEcXdwejkwSXVFZHNMK2k0bTZlajhoNmxGOWpBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjM3NjIwNzQ2Njk3OjM2QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmJOZkVqL1dPa0RhWFZMeG9HRmxUQVV2NGRDUDNYK3VuZVdtZEJ6LzBDc3EifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQifQ==",
       "required":true
       
     },
@@ -87,7 +87,7 @@
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
     "required":false,
-    "value": "22891733300"
+    "value": "237620746697"
   },
     
 
